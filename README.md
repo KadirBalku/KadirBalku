@@ -1,6 +1,6 @@
 <div id="main" align="center">
   
-# Hi, Folks! 👋
+# Hi! 👋
 
 </div>
 
